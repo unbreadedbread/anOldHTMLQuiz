@@ -1,0 +1,14 @@
+.bg-dark {
+  background-color: #121212;
+  color: #fff;
+}
+a {
+  text-decoration: none;
+  margin-top: 2px;
+}
+.hidden {
+  display: none;
+}
+.shown {
+  display: block;
+}
